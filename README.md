@@ -4,14 +4,14 @@ This is a case to analyze data related to depression disorder.
 
 ## Context
 
-• The dataset is a result of a survey from NHNES (National Health and Nutrition Examination Survey). The survey is carried out annually in the USA to assess the health and nutrition of adults and children
-• This specific dataset covers the period 2005-2006
-• The dataset was provided as part of the Estatística do Básico ao Avançado (EBA) course elaborated by Renata Biaggi
+* The dataset is a result of a survey from NHNES (National Health and Nutrition Examination Survey). The survey is carried out annually in the USA to assess the health and nutrition of adults and children
+* This specific dataset covers the period 2005-2006
+* The dataset was provided as part of the Estatística do Básico ao Avançado (EBA) course elaborated by Renata Biaggi
 
-• We are interested in two main questions:
+* We are interested in two main questions:
 
-    ◦ What is the profile of individuals (adults over 18 years old) with depressive symptoms in the USA in the period 2005-2006?
-    ◦ Are health habits and physical activity associated with lower rates of depression in this population?
+    * What is the profile of individuals (adults over 18 years old) with depressive symptoms in the USA in the period 2005-2006?
+    * Are health habits and physical activity associated with lower rates of depression in this population?
 
 
 ## Files
@@ -34,7 +34,7 @@ This is a case to analyze data related to depression disorder.
 3. **Univariate Analysis:**
 
 * Explore distributions and summaries of individual variables related to depressive symptoms
-* 
+  
 4. **Bivariate Analysis:**
 
 * Investigate relationships between variables, particularly focusing on associations between health habits, physical activity, and depressive symptoms.
